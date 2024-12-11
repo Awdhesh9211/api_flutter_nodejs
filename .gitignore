@@ -1,0 +1,64 @@
+# Flutter/Dart specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+node_modules
+
+# Build directories
+build/
+ios/Flutter/.generated/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Podfile.lock
+
+# Android specific files
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/build/
+
+# VS Code specific settings
+.vscode/
+
+# IntelliJ IDEA specific files
+.idea/
+
+# macOS specific files
+macos/Pods/
+macos/.symlinks/
+
+# Windows specific files
+windows/.symlinks/
+
+# Linux specific files
+linux/.symlinks/
+
+# Generated files
+generated_plugin_registrant.dart
+flutter_launcher_icons-*
+flutter_native_splash-*
+
+# JetBrains project files
+*.iml
+*.ipr
+*.iws
+
+# Build folder and other system-specific files
+*.log
+*.DS_Store
+*.apk
+*.aab
+
+# Flutter documentation files
+doc/api/
+
+# Code coverage files
+coverage/
+
+# Sensitive or personal files
+*.keystore
+*.jks
+*.env
