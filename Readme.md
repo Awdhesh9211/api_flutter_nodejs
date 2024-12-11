@@ -1,5 +1,5 @@
 # DEMO PNG
-1. **Image Path**: `![Screen](./screen.png)` 
+1. **Image Path**: ![screen](./screen.png) 
 # HTTP Package for Flutter
 
 This README covers usage of the `http` package in Flutter. It provides examples for making HTTP requests including `GET`, `POST`, `PUT`, `DELETE`, and `PATCH` requests, along with headers, parameters, and body data.
